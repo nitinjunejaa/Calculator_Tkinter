@@ -20,7 +20,6 @@ def click(event):
         scvalue.set(value)
         screen.update()
 
-
     elif text == "C":
         scvalue.set("")
         screen.update()
